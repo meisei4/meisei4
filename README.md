@@ -29,7 +29,7 @@
         </a>
       </td>
       <td colspan="1" align="center">
-        <img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=meisei4&show_icons=true&theme=transparent&layout=compact&include_all_commits=true&hide_title=true" width="840">
+        <img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=meisei4&show_icons=true&theme=transparent&layout=compact&include_all_commits=true&hide_title=true&custom_title="since october 2025" width="840">
       </td>
     </tr>
   </table>
